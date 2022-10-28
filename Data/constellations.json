@@ -1,5 +1,444 @@
 {
     "constellations": [
-        
+        {
+            "name": "Aries",
+            "abbreviation": "Ari",
+            "info": ["https://en.wikipedia.org/wiki/Aries_(constellation)"]
+        },
+        {
+            "name": "Taurus",
+            "abbreviation": "Tau",
+            "info": ["https://en.wikipedia.org/wiki/Taurus_(constellation)"]
+        },
+        {
+            "name": "Gemeni",
+            "abbreviation": "Gem",
+            "info": ["https://en.wikipedia.org/wiki/Gemini_(constellation)"]
+        },
+        {
+            "name": "Cancer",
+            "abbreviation": "Can",
+            "info": ["https://en.wikipedia.org/wiki/Cancer_(constellation)"]
+        },
+        {
+            "name": "Leo",
+            "abbreviation": "Leo",
+            "info": ["https://en.wikipedia.org/wiki/Leo_(constellation)"]
+        },
+        {
+            "name": "Virgo",
+            "abbreviation": "Vir",
+            "info": ["https://en.wikipedia.org/wiki/Virgo_(constellation)"]
+        },
+        {
+            "name": "Libra",
+            "abbreviation": "Lib",
+            "info": ["https://en.wikipedia.org/wiki/Libra_(constellation)"]
+        },
+        {
+            "name": "Scorpio",
+            "abbreviation": "Sco",
+            "info": ["https://en.wikipedia.org/wiki/Scorpius_(constellation)"]
+        },
+        {
+            "name": "Sagittarius",
+            "abbreviation": "Sag",
+            "info": ["https://en.wikipedia.org/wiki/Sagittarius_(constellation)"]
+        },
+        {
+            "name": "Capricornus",
+            "abbreviation": "Cap",
+            "info": ["https://en.wikipedia.org/wiki/Capricornus_(constellation)"]
+        },
+        {
+            "name": "Aquarius",
+            "abbreviation": "Aqr",
+            "info": ["https://en.wikipedia.org/wiki/Aquarius_(constellation)"]
+        },
+        {
+            "name": "Pisces",
+            "abbreviation": "Psc",
+            "info": ["https://en.wikipedia.org/wiki/Pisces_(constellation)"]
+        },
+        {
+            "name": "Pegasus",
+            "abbreviation": "Peg",
+            "info": ["https://en.wikipedia.org/wiki/Pegasus_(constellation)"]
+        },
+        {
+            "name": "Andromeda",
+            "abbreviation": "And",
+            "info": ["https://en.wikipedia.org/wiki/Andromeda_(constellation)"]
+        },
+        {
+            "name": "Triangulum",
+            "abbreviation": "Tri",
+            "info": ["https://en.wikipedia.org/wiki/Triangulum_(constellation)"]
+        },
+        {
+            "name": "Perseus",
+            "abbreviation": "Per",
+            "info": ["https://en.wikipedia.org/wiki/Perseus_(constellation)"]
+        },
+        {
+            "name": "Auriga",
+            "abbreviation": "Aur",
+            "info": ["https://en.wikipedia.org/wiki/Auriga_(constellation)"]
+        },
+        {
+            "name": "Lynx",
+            "abbreviation": "Lyn",
+            "info": ["https://en.wikipedia.org/wiki/Lynx_(constellation)"]
+        },
+        {
+            "name": "Leo Minor",
+            "abbreviation": "LMi",
+            "info": ["https://en.wikipedia.org/wiki/Leo_Minor_(constellation)"]
+        },
+        {
+            "name": "Ursa Major",
+            "abbreviation": "UMa",
+            "info": ["https://en.wikipedia.org/wiki/Ursa_Major"]
+        },
+        {
+            "name": "Canes Venatici",
+            "abbreviation": "CVn",
+            "info": ["https://en.wikipedia.org/wiki/Canes_Venatici"]
+        },
+        {
+            "name": "Coma Berenices",
+            "abbreviation": "Com",
+            "info": ["https://en.wikipedia.org/wiki/Coma_Berenices"]
+        },
+        {
+            "name": "Bootes",
+            "abbreviation": "Boo",
+            "info": ["https://en.wikipedia.org/wiki/Bootes"]
+        },
+        {
+            "name": "Corona Borealis",
+            "abbreviation": "CrB",
+            "info": ["https://en.wikipedia.org/wiki/Corona_Borealis"]
+        },
+        {
+            "name": "Hercules",
+            "abbreviation": "Her",
+            "info": ["https://en.wikipedia.org/wiki/Hercules_(constellation)"]
+        },
+        {
+            "name": "Lyra",
+            "abbreviation": "Lyr",
+            "info": ["https://en.wikipedia.org/wiki/Lyra_(constellation)"]
+        },
+        {
+            "name": "Ophiuchus",
+            "abbreviation": "Oph",
+            "info": ["https://en.wikipedia.org/wiki/Ophiuchus_(constellation)"]
+        },
+        {
+            "name": "Serpens",
+            "abbreviation": "Ser",
+            "info": ["https://en.wikipedia.org/wiki/Serpens_(constellation)"]
+        },
+        {
+            "name": "Scutum",
+            "abbreviation": "Sct",
+            "info": ["https://en.wikipedia.org/wiki/Scutum_(constellation)"]
+        },
+        {
+            "name": "Aquila",
+            "abbreviation": "Aql",
+            "info": ["https://en.wikipedia.org/wiki/Aquila_(constellation)"]
+        },
+        {
+            "name": "Sagitta",
+            "abbreviation": "Sge",
+            "info": ["https://en.wikipedia.org/wiki/Sagitta_(constellation)"]
+        },
+        {
+            "name": "Vulpecula",
+            "abbreviation": "Vul",
+            "info": ["https://en.wikipedia.org/wiki/Vulpecula"]
+        },
+        {
+            "name": "Delphinus",
+            "abbreviation": "Del",
+            "info": ["https://en.wikipedia.org/wiki/Delphinus_(constellation)"]
+        },
+        {
+            "name": "Equuleus",
+            "abbreviation": "Equ",
+            "info": ["https://en.wikipedia.org/wiki/Equuleus_(constellation)"]
+        },
+        {
+            "name": "Cygnus",
+            "abbreviation": "Cyg",
+            "info": ["https://en.wikipedia.org/wiki/Cygnus_(constellation)"]
+        },
+        {
+            "name": "Lacerta",
+            "abbreviation": "Lac",
+            "info": ["https://en.wikipedia.org/wiki/Lacerta_(constellation)"]
+        },
+        {
+            "name": "Cepheus",
+            "abbreviation": "Cep",
+            "info": ["https://en.wikipedia.org/wiki/Cepheus_(constellation)"]
+        },
+        {
+            "name": "Cassiopeia",
+            "abbreviation": "Cas",
+            "info": ["https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"]
+        },
+        {
+            "name": "Camelopardalis",
+            "abbreviation": "Cam",
+            "info": ["https://en.wikipedia.org/wiki/Camelopardalis_(constellation)"]
+        },
+        {
+            "name": "Draco",
+            "abbreviation": "Dra",
+            "info": ["https://en.wikipedia.org/wiki/Draco_(constellation)"]
+        },
+        {
+            "name": "Ursa Minor",
+            "abbreviation": "UMi",
+            "info": ["https://en.wikipedia.org/wiki/Ursa_Minor"]
+        },
+        {
+            "name": "Cetus",
+            "abbreviation": "Cet",
+            "info": ["https://en.wikipedia.org/wiki/Cetus_(constellation)"]
+        },
+        {
+            "name": "Orion",
+            "abbreviation": "Ori",
+            "info": ["https://en.wikipedia.org/wiki/Orion_(constellation)"]
+        },
+        {
+            "name": "Monoceros",
+            "abbreviation": "Mon",
+            "info": ["https://en.wikipedia.org/wiki/Monoceros_(constellation)"]
+        },
+        {
+            "name": "Canis Major",
+            "abbreviation": "CMa",
+            "info": ["https://en.wikipedia.org/wiki/Canis_Major"]
+        },
+        {
+            "name": "Hydra",
+            "abbreviation": "Hya",
+            "info": ["https://en.wikipedia.org/wiki/Hydra_(constellation)"]
+        },
+        {
+            "name": "Sextans",
+            "abbreviation": "Sex",
+            "info": ["https://en.wikipedia.org/wiki/Sextans_(constellation)"]
+        },
+        {
+            "name": "Crater",
+            "abbreviation": "Crt",
+            "info": ["https://en.wikipedia.org/wiki/Crater_(constellation)"]
+        },
+        {
+            "name": "Corvus",
+            "abbreviation": "Crv",
+            "info": ["https://en.wikipedia.org/wiki/Corvus_(constellation)"]
+        },
+        {
+            "name": "Centaurus",
+            "abbreviation": "Cen",
+            "info": ["https://en.wikipedia.org/wiki/Centaurus_(constellation)"]
+        },
+        {
+            "name": "Lupus",
+            "abbreviation": "Lup",
+            "info": ["https://en.wikipedia.org/wiki/Lupus_(constellation)"]
+        },
+        {
+            "name": "Norma",
+            "abbreviation": "Nor",
+            "info": ["https://en.wikipedia.org/wiki/Norma_(constellation)"]
+        },
+        {
+            "name": "Ara",
+            "abbreviation": "Ara",
+            "info": ["https://en.wikipedia.org/wiki/Ara_(constellation)"]
+        },
+        {
+            "name": "Corona Australis",
+            "abbreviation": "CrA",
+            "info": ["https://en.wikipedia.org/wiki/Corona_Australis"]
+        },
+        {
+            "name": "Telescopium",
+            "abbreviation": "Tel",
+            "info": ["https://en.wikipedia.org/wiki/Telescopium_(constellation)"]
+        },
+        {
+            "name": "Microscopium",
+            "abbreviation": "Mic",
+            "info": ["https://en.wikipedia.org/wiki/Microscopium_(constellation)"]
+        },
+        {
+            "name": "Indus",
+            "abbreviation": "Ind",
+            "info": ["https://en.wikipedia.org/wiki/Indus_(constellation)"]
+        },
+        {
+            "name": "Pisces Austrinus",
+            "abbreviation": "PsA",
+            "info": ["https://en.wikipedia.org/wiki/Pisces_Austrinus"]
+        },
+        {
+            "name": "Grus",
+            "abbreviation": "Gru",
+            "info": ["https://en.wikipedia.org/wiki/Grus_(constellation)"]
+        },
+        {
+            "name": "Sculptor",
+            "abbreviation": "Scl",
+            "info": ["https://en.wikipedia.org/wiki/Sculptor_(constellation)"]
+        },
+        {
+            "name": "Phoenix",
+            "abbreviation": "Phe",
+            "info": ["https://en.wikipedia.org/wiki/Phoenix_(constellation)"]
+        },
+        {
+            "name": "Fornax",
+            "abbreviation": "For",
+            "info": ["https://en.wikipedia.org/wiki/Fornax_(constellation)"]
+        },
+        {
+            "name": "Eridanus",
+            "abbreviation": "Eri",
+            "info": ["https://en.wikipedia.org/wiki/Eridanus_(constellation)"]
+        },
+        {
+            "name": "Lepus",
+            "abbreviation": "Lep",
+            "info": ["https://en.wikipedia.org/wiki/Lepus_(constellation)"]
+        },
+        {
+            "name": "Puppis",
+            "abbreviation": "Pup",
+            "info": ["https://en.wikipedia.org/wiki/Puppis_(constellation)"]
+        },
+        {
+            "name": "Pyxis",
+            "abbreviation": "Pyx",
+            "info": ["https://en.wikipedia.org/wiki/Pyxis_(constellation)"]
+        },
+        {
+            "name": "Antila",
+            "abbreviation": "Ant",
+            "info": ["https://en.wikipedia.org/wiki/Antila_(constellation)"]
+        },
+        {
+            "name": "Vela",
+            "abbreviation": "Vel",
+            "info": ["https://en.wikipedia.org/wiki/Vela_(constellation)"]
+        },
+        {
+            "name": "Carina",
+            "abbreviation": "Car",
+            "info": ["https://en.wikipedia.org/wiki/Carina_(constellation)"]
+        },
+        {
+            "name": "Crux",
+            "abbreviation": "Cru",
+            "info": ["https://en.wikipedia.org/wiki/Crux_(constellation)"]
+        },
+        {
+            "name": "Circinus",
+            "abbreviation": "Cir",
+            "info": ["https://en.wikipedia.org/wiki/Circinus_(constellation)"]
+        },
+        {
+            "name": "Triangulum Australe",
+            "abbreviation": "TrA",
+            "info": ["https://en.wikipedia.org/wiki/Triangulum_Australe"]
+        },
+        {
+            "name": "Pavo",
+            "abbreviation": "Pav",
+            "info": ["https://en.wikipedia.org/wiki/Pavo_(constellation)"]
+        },
+        {
+            "name": "Tucana",
+            "abbreviation": "Tuc",
+            "info": ["https://en.wikipedia.org/wiki/Tucana_(constellation)"]
+        },
+        {
+            "name": "Hydrus",
+            "abbreviation": "Hyi",
+            "info": ["https://en.wikipedia.org/wiki/Hydrus_(constellation)"]
+        },
+        {
+            "name": "Horologium",
+            "abbreviation": "Hor",
+            "info": ["https://en.wikipedia.org/wiki/Horologium_(constellation)"]
+        },
+        {
+            "name": "Caelum",
+            "abbreviation": "Cae",
+            "info": ["https://en.wikipedia.org/wiki/Caelum_(constellation)"]
+        },
+        {
+            "name": "Columba",
+            "abbreviation": "Col",
+            "info": ["https://en.wikipedia.org/wiki/Columba_(constellation)"]
+        },
+        {
+            "name": "Pictor",
+            "abbreviation": "Pic",
+            "info": ["https://en.wikipedia.org/wiki/Pictor_(constellation)"]
+        },
+        {
+            "name": "Dorado",
+            "abbreviation": "Dor",
+            "info": ["https://en.wikipedia.org/wiki/Dorado_(constellation)"]
+        },
+        {
+            "name": "Reticulum",
+            "abbreviation": "Ret",
+            "info": ["https://en.wikipedia.org/wiki/Reticulum_(constellation)"]
+        },
+        {
+            "name": "Volans",
+            "abbreviation": "Vol",
+            "info": ["https://en.wikipedia.org/wiki/Volans_(constellation)"]
+        },
+        {
+            "name": "Musca",
+            "abbreviation": "Mus",
+            "info": ["https://en.wikipedia.org/wiki/Musca_(constellation)"]
+        },
+        {
+            "name": "Apus",
+            "abbreviation": "Aps",
+            "info": ["https://en.wikipedia.org/wiki/Apus_(constellation)"]
+        },
+        {
+            "name": "Apus",
+            "abbreviation": "Aps",
+            "info": ["https://en.wikipedia.org/wiki/Apus_(constellation)"]
+        },
+        {
+            "name": "Mensa",
+            "abbreviation": "Men",
+            "info": ["https://en.wikipedia.org/wiki/Mensa_(constellation)"]
+        },
+        {
+            "name": "Chamaeleon",
+            "abbreviation": "Cha",
+            "info": ["https://en.wikipedia.org/wiki/Chamaeleon_(constellation)"]
+        },
+        {
+            "name": "Octans",
+            "abbreviation": "Oct",
+            "info": ["https://en.wikipedia.org/wiki/Octans_(constellation)"]
+        }
     ]
 }
