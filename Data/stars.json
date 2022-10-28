@@ -1,5 +1,48 @@
 {
     "stars": [
-        
+        {
+            "name": "Hamal",
+            "constellation": "Aries",
+            "bayer": "α Ari",
+            "magnitude": 2.26,
+            "distance": 65.88,
+            "distance_parsecs": 20.2,
+            "stage": "red giant",
+            "spectral_type": ["K2 III Ca-1"],
+            "position": {
+                "ra": "01h 54m 38.41099s",
+                "dec": "+20° 48′ 28.9133″"
+            },
+            "info": ["https://en.wikipedia.org/wiki/Hamal"]
+        },
+        {
+            "name": "Sheratan",
+            "constellation": "Aries",
+            "bayer": "β Ari",
+            "magnitude": 2.66,
+            "distance": 59.6,
+            "distance_parsecs": 18.3,
+            "stage": "type-a main sequence",
+            "spectral_type": ["A5 V"],
+            "position": {
+                "ra": "01h 54m 38.41099s",
+                "dec": "+20° 48′ 28.9133″"
+            },
+            "info": ["https://en.wikipedia.org/wiki/Beta_Arietis"]
+        },
+        {
+            "name": "Mesarthim",
+            "constellation": "Aries",
+            "bayer": "γ Ari",
+            "magnitude": 3.86,
+            "distance": 164,
+            "distance_parsecs": 50,
+            "spectral_type": ["A0Vnp λ Boo", "(A0IV-V(n)kB8)", "Binary"],
+            "position": {
+                "ra": "01h 53m 31.81479s",
+                "dec": "+19° 17′ 37.8790″"
+            },
+            "info": ["https://en.wikipedia.org/wiki/Gamma_Arietis"]
+        }
     ]
 }
